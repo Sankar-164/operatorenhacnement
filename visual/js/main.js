@@ -1,6 +1,6 @@
 $(document).ready(function() {
     if (!Raphael.svg) {
-        window.location = './notsupported.html';
+        window.location = 'visual\notsupported.html';
     }
 
     // suppress select events
